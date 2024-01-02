@@ -86,7 +86,7 @@ Software Engineer
 </picture>
 </a></p>
 
-### <b>My GitHub Stats</b>
+### <b>GitHub Stats</b>
 
 <a href="http://www.github.com/dnsamw">
 <img src="https://github-readme-stats.vercel.app/api?username=dnsamw&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=181824&hide_border=true&show_icons=true" alt="dnsamw's GitHub stats" /></a>
